@@ -1,5 +1,5 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: '<img src="images/city_of_gothenburg_wide.png" class="inline"/> An Open Data Project'
+title: 'An Open Data Project'
 subtitle: 'Open data from the City of Gothenburg'
 
 # if you wish to integrate disqus on pages set your shortname here
