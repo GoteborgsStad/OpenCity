@@ -46,6 +46,6 @@ This checklist help the party publishing the information in the way the business
 * [Checklist for IT in English (.doc)](link)
 * [Checklist for IT in Swedish (.doc)](link)
 
-## Checklista for metadata
+## Checklist for metadata
 
 Helps us to ensure that the metadata is complete, correct and useful. A big problem för open data today is that metadata is not good and/or comprehensive enough. This checklist will be published shortly as it is being finalized right now.
