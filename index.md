@@ -1,9 +1,14 @@
 ---
 layout: default
-title: "City of Gothenburg - Open Data"
+title: "City of Gothenburg - Open Data and open source"
 ---
 
+# Welcome to the open City of Gothenburg
+
 The city of Gothenburg is committed to openness and transparency. On this Github-page we will be sharing the results of out efforts mainly concerning open data and open source. Open data will not be shared here but we will share experiences from working with open data to make it easier for everyone else to do the same thing or learn from out misstakes. The open data itself can be found at [goteborg.se/psidata] (http://www25.goteborg.se/psidata/).
+
+
+
 
 # Old text
 
