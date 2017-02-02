@@ -13,6 +13,7 @@ The city has created 2 checklists that should be used internally when creating o
 ## Checklist for the business area
 
 This checklist should be used by the part of the organisation that owns data and want to publish it as open data. It guides them thru the different questions that need to be answered  in order to publish open data. The questions asked are:
+
 1. Ownership and security classification (including secrecy and personal information)
 2. Copyright
 3. Can the information be opened up?
@@ -27,13 +28,14 @@ This checklist should be used by the part of the organisation that owns data and
 12. Publish and spread open data (spreading knowledge about the publication is very important when trying to get reuse)
 13. Governance
 
-[Checklist for the business area in English (.doc)](link)
-[Checklist for the business area in Swedish (.doc)](link)
+* [Checklist for the business area in English (.doc)](link)
+* [Checklist for the business area in Swedish (.doc)](link)
 
 
 ## Checklist for IT
 
 This checklist help the party publishing the information in the way the business area has detailed to do so in a structured way. This party can be the same as the business area using the checklist above, an internal it-organisation or an external supplier managing an information system för the city. This checklist addresses the following issues:
+
 1. Information about the data that should be opened up
 2. How should the information be opened up? (From where, standards and formats used and how it will be kept updated)
 3. Create metadata (this is done in collaboration with the business area)
@@ -41,8 +43,8 @@ This checklist help the party publishing the information in the way the business
 5. Await a decision from the information owner concerning publication
 6. Publish and maintain open data
 
-[Checklist for IT in English (.doc)](link)
-[Checklist for IT in Swedish (.doc)](link)
+* [Checklist for IT in English (.doc)](link)
+* [Checklist for IT in Swedish (.doc)](link)
 
 ## Checklista for metadata
 
