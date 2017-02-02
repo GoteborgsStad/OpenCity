@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Open Data and open source'
-subtitle: 'The open City of Gothenburg'
+subtitle: ' - The open City of Gothenburg'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
@@ -19,9 +19,9 @@ codeurl: 'https://github.com/bruth/jekyll-docs-template'
 
 # Default categories (in order) to appear in the navigation
 sections: [
+    ['dat', 'Open data'],
     ['doc', 'Documentation'],
     ['dev', 'Developers'],
-    ['dat', 'Open data'],
     ['swe', 'Svenska (Swedish)']
 ]
 
