@@ -28,11 +28,11 @@ This checklist should be used by the part of the organisation that owns data and
 12. Publish and spread open data (spreading knowledge about the publication is very important when trying to get reuse)
 13. Governance
 
-* [Checklist for the business area in English (.doc)](link)
-* [Checklist for the business area in Swedish (.doc)](link)
+* [Checklist for operations in English (.doc)](/images/Checklist-for-operations-and-publication-of-open-data.docx)
+* [Checklist for the business area in Swedish (.doc)](/images/checklista-for-verksamheter-och-publicering-av-oppna-data.docx)
 
 
-## Checklist for IT
+## Checklist for technology
 
 This checklist help the party publishing the information in the way the business area has detailed to do so in a structured way. This party can be the same as the business area using the checklist above, an internal it-organisation or an external supplier managing an information system för the city. This checklist addresses the following issues:
 
@@ -43,8 +43,8 @@ This checklist help the party publishing the information in the way the business
 5. Await a decision from the information owner concerning publication
 6. Publish and maintain open data
 
-* [Checklist for IT in English (.doc)](link)
-* [Checklist for IT in Swedish (.doc)](link)
+* [Checklist for IT in English (.doc)](/images/Checklist-for-tecnology-and-publication-of-open-data.docx)
+* [Checklist for technology in Swedish (.doc)](/images/Checklist-for-tecnology-and-publication-of-open-data.docx)
 
 ## Checklist for metadata
 
