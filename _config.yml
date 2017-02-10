@@ -19,8 +19,8 @@ codeurl: 'https://github.com/bruth/jekyll-docs-template'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['opendata', 'Open data1'],
-    ['ops', 'Open source'],
+    ['opendata', 'Open data'],
+    ['opensource', 'Open source'],
     ['doc', 'Documentation'],
     ['dev', 'Developers'],
     ['swe', 'Svenska (Swedish)']
