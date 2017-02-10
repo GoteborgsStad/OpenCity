@@ -10,9 +10,9 @@ order: 20
 
 The city has created 2 checklists that should be used internally when creating open data and we want to share them with you all. Feel free to reuse them as you see fit ([CC0-licensed](https://creativecommons.org/share-your-work/public-domain/cc0/)). [They are based in the generic process for open data that the Naturvårdsverket (The Swedish Environmental protection agency) created during 2016 (Swedish only)](http://www.naturvardsverket.se/Stod-i-miljoarbetet/Vagledningar/Oppna-data/).
 
-## Checklist for the business area
+## Checklist for operations
 
-This checklist should be used by the part of the organisation that owns data and want to publish it as open data. It guides them thru the different questions that need to be answered  in order to publish open data. The questions asked are:
+This checklist should be used by the part of the organisation that owns data and want to publish it as open data. It guides them thru the different issues that need to be resolved in order to publish open data. The questions asked are:
 
 1. Ownership and security classification (including secrecy and personal information)
 2. Copyright
