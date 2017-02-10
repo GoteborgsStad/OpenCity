@@ -28,7 +28,7 @@ This checklist should be used by the part of the organisation that owns data and
 12. Publish and spread open data (spreading knowledge about the publication is very important when trying to get reuse)
 13. Governance
 
-* [Checklist for operations in English (.doc)](/images/Checklist-for-operations-and-publication-of-open-data.docx)
+* [Checklist for operations in English (.doc)](../images/Checklist-for-operations-and-publication-of-open-data.docx)
 * [Checklist for the business area in Swedish (.doc)](/images/checklista-for-verksamheter-och-publicering-av-oppna-data.docx)
 
 
