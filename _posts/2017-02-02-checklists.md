@@ -8,7 +8,7 @@ order: 20
 
 # Checklists for creating open data
 
-The city has created 2 checklists that should be used internally when creating open data and we want to share them with you all. Feel free to reuse them as you see fit ([CC0-licensed](https://creativecommons.org/share-your-work/public-domain/cc0/)). [They are based in the generic process for open data that the Naturvårdsverket (The Swedish Environmental protection agency) created during 2016 (Swedish only)](http://www.naturvardsverket.se/Stod-i-miljoarbetet/Vagledningar/Oppna-data/).
+The city has created checklists that will be used internally when creating open data and we want to share them with you all. Feel free to reuse them as you see fit ([CC0-licensed](https://creativecommons.org/share-your-work/public-domain/cc0/)). [They are based in the generic process for open data that the Naturvårdsverket (The Swedish Environmental protection agency) created during 2016 (Swedish only)](http://www.naturvardsverket.se/Stod-i-miljoarbetet/Vagledningar/Oppna-data/). If you develop the the checklists please feel free to let us know. It may be apropriate to update our checklists accordingly.
 
 ## Checklist for operations
 
