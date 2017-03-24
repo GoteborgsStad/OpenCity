@@ -22,5 +22,3 @@ rights to modify it and use it for any purpose (even commercial). This is in acc
 [the recommendations in the Swedish national guidelines](http://www.vidareutnyttjande.se/juridik-och-rekommendationer/tillgangligorande-pa-natet-huvudalternativet/vilka-informationsresurser-bor-finnas-tillgangliga/myndighetens-villkor-for-vidareutnyttjande-etc/)
 :_”För databaser som endast skyddas enligt det särskilda databasskyddet (men som inte fritt får återges enligt 26 a §)
 rekommenderas i stället licensen CC0.”_
-
-[jekyll-doc-template is a BSD-style licensed GitHub-pages stylesheet](http://bruth.github.io/jekyll-docs-template/dev/license.html).
