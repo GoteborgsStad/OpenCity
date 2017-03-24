@@ -11,6 +11,9 @@ The city of Gothenburg is committed to openness and transparency. On this Github
 
 The goal of this project is to supply the general public and entrepreneurs with data so that it will be used in ways we often never would have thought of, to directly or indirectly create a greater net worth to the general public by suppling public services or generating economic growth that cause more tax revenues and increase citizen satisfaction.
 
+## Contact
+Any questions or suggestions about the work should be addressed to [serviceutveckling@kom.goteborg.se](serviceutveckling@kom.goteborg.se).
+
 ## License
 
 All text available via this publication is licensed using
