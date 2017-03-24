@@ -8,6 +8,6 @@ order: 1
 
 # Open source from the City of Gothenburg
 
-The City of Gothenburg is committed to openness and publishing source code for what we develop is part of that comittment. On this page we will gather information on the different project we publish as open source.
+The City of Gothenburg is committed to openness and publishing source code for what we develop is part of that comittment.
 
-
+The source code for all our projects can be found at [https://github.com/goteborgsstad](https://github.com/goteborgsstad).
