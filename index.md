@@ -5,11 +5,11 @@ title: "City of Gothenburg - Open Data and open source"
 
 # Welcome to the open City of Gothenburg
 
-The city of Gothenburg is committed to openness and transparency. On this Github-page we will be sharing the results of out efforts mainly concerning open data and open source. Open data will not be shared here but we will share experiences from working with open data to make it easier for everyone else to do the same thing or learn from out misstakes. The open data itself can be found at [goteborg.se/psidata] (http://www25.goteborg.se/psidata/).
+The city of Gothenburg is committed to openness and transparency. On this Github-page we will be sharing the results of our efforts mainly concerning open data and open source. Open data will not be shared here (it can be found at [goteborg.se/psidata](http://www25.goteborg.se/psidata/)) but we will share experiences from working with open data to make it easier for everyone else to do the same thing or learn from out misstakes.
 
 ## Background
 
-The goal of this project is to supply the general public with data so it gets used in ways we never would have thought of by our selvs, to directly or indirectly create a greater net worth to the general public by suppling publice services or generating economic growth that cause more tax revenues and more satisfied citizens.
+The goal of this project is to supply the general public and entrepreneurs with data so that it will be used in ways we often never would have thought of, to directly or indirectly create a greater net worth to the general public by suppling public services or generating economic growth that cause more tax revenues and increase citizen satisfaction.
 
 ## License
 
